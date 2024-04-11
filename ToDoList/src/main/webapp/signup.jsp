@@ -50,10 +50,10 @@ table,tr,td{
 	<!-- <form action="" method="post" enctype="formdata/multi-part"> -->
 	<table>
 		<tr> <td colspan="2"> <h2 class="input">SIGNUP</h2> </td> </tr>
-		<tr>
+		<!-- <tr>
 			<td class="content">ID:</td>
 			<td class="input"><input class="input1" type="text" name="id" required="required"></td>
-		</tr>
+		</tr> -->
 		<tr>
 			<td class="content">Name:</td>
 			<td class="input"><input class="input1" type="text" name="name" required="required"></td>
